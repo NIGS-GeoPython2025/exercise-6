@@ -13,7 +13,9 @@ You need to calculate the average number of earthquakes recorded by the PHIVOLCS
 
 ### Start a Binder or Jupyter Lab instance 
 
-Before starting to work with the problems for this week, you should start a new JupyterLab instance in Binder (o ryour preferred Jupyter Lab application) and start form an empty notebook there.
+Before starting to work with the problems for this week, you should start a new JupyterLab instance in Binder (or your preferred Jupyter Lab application).
+
+Start form an empty notebook there, save your output there, and then upload/commit to this repository.
 
 ### Input data
 
