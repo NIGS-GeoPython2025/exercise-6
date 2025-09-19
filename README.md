@@ -1,7 +1,7 @@
 # Exercise 6: Further practice with pandas from actual data
 In this exercise, you will be practicing what you did during the lesson, but now you will be doing the data scraping yourself.
 
-You need to calculate the average number of earthquakes recorded by the PHIVOLCS catalog [https://earthquake.phivolcs.dost.gov.ph](https://earthquake.phivolcs.dost.gov.ph) for a specific month assigned to you.
+You need to calculate the average number of earthquakes recorded by the PHIVOLCS catalog ([https://earthquake.phivolcs.dost.gov.ph](https://earthquake.phivolcs.dost.gov.ph)) for a specific month assigned to you.
 
 ## Completing the exercise
 
@@ -17,13 +17,13 @@ Before starting to work with the problems for this week, you should start a new 
 
 ### Input data
 
-You will use data from the PHIVOLCS website on earthquake monitoring [here](https://earthquake.phivolcs.dost.gov.ph/))). Scroll all the way down to select the month that you ahve been assigned.
+You will use data from the PHIVOLCS website on earthquake monitoring [here](https://earthquake.phivolcs.dost.gov.ph/). Scroll all the way down to select the month that you ahve been assigned.
 
 You will need to manually copy the data from the website, save as csv file (or any ASCII format), that you will then process in Python with pandas.
 
 The output should be similar to the last part of Lesson 6:
 
-'''
+```
 MONTH: January 2021
 NUMBER OF EVENTS RECORDED: 783
 Average number of earthquakes per day: 25.3
@@ -41,4 +41,4 @@ MONTH_DAY
 0125       3.735610  32.487805    3.07        1    4.86      381        41
 0121       3.813529  45.941176    3.13        1    7.14      153        34
 0126       3.870909  39.909091    3.07        1    5.00      445        33
-'''
+```
